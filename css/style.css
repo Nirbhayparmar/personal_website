@@ -11,5 +11,5 @@
   flex-grow: 1;
 }
 .item:first-child {
-  flex-grow: 2;
+  flex-grow: 10;
 }
